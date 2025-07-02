@@ -31,7 +31,9 @@ Perfect for data enthusiasts, job seekers, and career analysts!
 
 📁 skill-demand-analyzer/
 ├── app.py ← Streamlit app source code
+
 ├── requirements.txt ← Python dependencies
+
 ├── README.md ← Project info and usage guide
 
 ## 📥 Upload Your Own Dataset
@@ -46,7 +48,7 @@ To use the app:
 
 You can upload this file directly in the app after launching it.
 
-> 💡 Tip: Keep your file under 200MB to meet Streamlit Cloud limits.
+Tip: Keep your file under 200MB to meet Streamlit Cloud limits.
 
 ---
 
