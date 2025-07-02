@@ -66,6 +66,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 🌐 Live Demo
+https://skill-demand-analyser-cnfokxzxb4nwvg9t4aevkt.streamlit.app/
 
 🙋‍♀️ Author
 Made by Sreeya ks
